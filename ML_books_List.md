@@ -15,6 +15,7 @@
 # Reinforcement learning and Optimal Control
 - [Reinforcement Learning: An Introduction, authors: Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/the-book-2nd.html)
 - [Neuro-Dynamic Programming, authors: Dimitri P. Bertsekas and John Tsitsiklis](http://athenasc.com/ndpbook.html)
+- [Reinforcement Learning and Optimal Control, author: Dimitri P. Bertsekas](https://web.mit.edu/dimitrib/www/RLbook.html)
 
 # Machine Learning and Control
 - [Data Driven Science & Engineering: Machine Learning, Dynamical Systems and Control](http://www.databookuw.com/)
