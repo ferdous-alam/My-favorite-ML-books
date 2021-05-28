@@ -8,6 +8,7 @@
 # Deep learning 
 - [Deep Learning, authors: Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)  
 - [Dive into Deep Learning, authors: Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola](https://d2l.ai/)
+- [Python Machine Learning (3rd Ed.), author: Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 
 # Gaussian Process
 - [Gaussian Processes for Machine Learning, authors: Carl Edward Rasmussen and Christopher K. I. Williams](http://www.gaussianprocess.org/gpml/)
