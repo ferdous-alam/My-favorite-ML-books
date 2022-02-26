@@ -4,11 +4,13 @@
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, authors: Trevor Hastie, Robert Tibshirani, Jerome Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [An Introduction to Statistical Learning, authors: Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani](https://www.statlearning.com/)
 - [Mathematics for Machine Learning, authors: Deisenroth, A. Aldo Faisal, and Cheng Soon Ong.](https://mml-book.github.io/)
+- [Introduction to Probability for Data Science, author: Stanley H. Chan](https://probability4datascience.com/)
 
 # Deep learning 
 - [Deep Learning, authors: Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)  
 - [Dive into Deep Learning, authors: Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola](https://d2l.ai/)
 - [Python Machine Learning (3rd Ed.), author: Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
+- [Deep Learning with Python, (2nd Ed.), author: François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
 # Gaussian Process
 - [Gaussian Processes for Machine Learning, authors: Carl Edward Rasmussen and Christopher K. I. Williams](http://www.gaussianprocess.org/gpml/)
